@@ -109,10 +109,6 @@ commit
 
 
 
-drop table company cascade constraints;
-
-SELECT * FROM USER_CONSTRAINTS WHERE TABLE_NAME = company
-SELECT * FROM USER_CONSTRAINTS WHERE TABLE_NAME = COMPANY';
 drop table customer;
 drop table table2g;
 drop table table3g;
@@ -121,19 +117,6 @@ drop table tablett;
 drop table plan;
 drop table company;
 
-drop table book57;
-drop table course57;
-drop table custatable57;
-  drop table department57;
-drop  table employee_table57;
-  drop  table instructor57;
-drop table issue57;
-  drop  table member57;
-drop  table movie;
-drop  table sales_order;
-  drop  table section57;
-drop table table1;
-drop  table table2;
 
 SELECT * FROM USER_CONSTRAINTS WHERE TABLE_NAME = section57";
 
