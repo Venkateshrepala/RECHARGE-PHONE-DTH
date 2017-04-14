@@ -103,7 +103,7 @@ insert into tablett values('RI500',5, 490);
 insert into tablett values('UN300',4, 320);
 insert into tablett values('BS1000',2,1200);
 
-commit
+
 
 
 
