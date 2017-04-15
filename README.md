@@ -1,6 +1,7 @@
                        RECHARGE OF PHONE AND DTH CONNECTION.
 
 Purpose of our project is how to do Recharge Of Phone and DTH simply by signing in and get your recharge done by entering respective PHONE or DTH connection number.
+
 <img width="1279" alt="screen shot 2017-04-14 at 11 01 12" src="https://cloud.githubusercontent.com/assets/25220234/25050715/91223e48-2166-11e7-9fef-a7743d076d9c.png">
 
 PREREQUISITES: YOU NEED TO HAVE JDK(JAVA DEVELOPMENT KIT) TO INSTALL IT , NETBEANS IDE 8.2 VERSION AND SQL DEVELOPER
