@@ -118,7 +118,7 @@ drop table plan;
 drop table company;
 
 
-SELECT * FROM USER_CONSTRAINTS WHERE TABLE_NAME = section57";
+
 
 select * from customer;
 select * from table2g;
